@@ -13,32 +13,6 @@
 - 👩‍🏫 **لوحة المعلم** – إنشاء وحفظ خطط الدروس
 - 🔐 **تسجيل الدخول** – نظام مصادقة بسيط client-side
 
-## التشغيل المحلي
-
-```bash
-npm install
-npm run dev
-```
-
-افتح [http://localhost:3000](http://localhost:3000)
-
-## النشر على Vercel
-
-```bash
-npm install -g vercel
-vercel
-```
-
-## إضافة الكتب
-
-ضع ملفات PDF في:
-```
-/public/books/grade7/science.pdf
-/public/books/grade7/math.pdf
-/public/books/grade8/science.pdf
-...
-```
-
 ## هيكل المشروع
 
 ```
